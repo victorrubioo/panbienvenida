@@ -1,0 +1,17 @@
+{
+  "name": "panbot",
+  "version": "1.0.0",
+  "description": "Bot oficial del servidor Pans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "Pans",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
